@@ -20,3 +20,8 @@ h1 {
 p {
   font-style: italic;
 }
+
+header {
+  background-color: antiquewhite;
+  padding: 5px;
+}
